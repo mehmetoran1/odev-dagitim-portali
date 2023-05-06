@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="odevPortalModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="odevPortalEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Ders" EntityType="odevPortalModel.Ders" />
+    <EntitySet Name="Kategori" EntityType="odevPortalModel.Kategori" />
+    <EntitySet Name="Kayit" EntityType="odevPortalModel.Kayit" />
+    <EntitySet Name="Odev" EntityType="odevPortalModel.Odev" />
+    <EntitySet Name="Uye" EntityType="odevPortalModel.Uye" />
+    <AssociationSet Name="FK_Ders_ToKategori" Association="odevPortalModel.FK_Ders_ToKategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="Ders" EntitySet="Ders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Odev_ToDers" Association="odevPortalModel.FK_Odev_ToDers">
+      <End Role="Ders" EntitySet="Ders" />
+      <End Role="Odev" EntitySet="Odev" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kayit_ToOdev" Association="odevPortalModel.FK_Kayit_ToOdev">
+      <End Role="Odev" EntitySet="Odev" />
+      <End Role="Kayit" EntitySet="Kayit" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kayit_ToUye" Association="odevPortalModel.FK_Kayit_ToUye">
+      <End Role="Uye" EntitySet="Uye" />
+      <End Role="Kayit" EntitySet="Kayit" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Ders">
+    <Key>
+      <PropertyRef Name="dersId" />
+    </Key>
+    <Property Name="dersId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dersAdi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="dersKodu" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="dersKredi" Type="Int32" Nullable="false" />
+    <Property Name="dersKategoriId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Kategori" Relationship="odevPortalModel.FK_Ders_ToKategori" FromRole="Ders" ToRole="Kategori" />
+    <NavigationProperty Name="Odev" Relationship="odevPortalModel.FK_Odev_ToDers" FromRole="Ders" ToRole="Odev" />
+  </EntityType>
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="kategoriId" />
+    </Key>
+    <Property Name="kategoriId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kategoriAdi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Ders" Relationship="odevPortalModel.FK_Ders_ToKategori" FromRole="Kategori" ToRole="Ders" />
+  </EntityType>
+  <EntityType Name="Kayit">
+    <Key>
+      <PropertyRef Name="kayitId" />
+    </Key>
+    <Property Name="kayitId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kayitOdevId" Type="Int32" Nullable="false" />
+    <Property Name="kayitUyeId" Type="Int32" Nullable="false" />
+    <Property Name="kayitDurum" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Odev" Relationship="odevPortalModel.FK_Kayit_ToOdev" FromRole="Kayit" ToRole="Odev" />
+    <NavigationProperty Name="Uye" Relationship="odevPortalModel.FK_Kayit_ToUye" FromRole="Kayit" ToRole="Uye" />
+  </EntityType>
+  <EntityType Name="Odev">
+    <Key>
+      <PropertyRef Name="odevId" />
+    </Key>
+    <Property Name="odevId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="odevAdi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="odevAciklama" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="odevSonTarih" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="odevDersId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Ders" Relationship="odevPortalModel.FK_Odev_ToDers" FromRole="Odev" ToRole="Ders" />
+    <NavigationProperty Name="Kayit" Relationship="odevPortalModel.FK_Kayit_ToOdev" FromRole="Odev" ToRole="Kayit" />
+  </EntityType>
+  <EntityType Name="Uye">
+    <Key>
+      <PropertyRef Name="uyeId" />
+    </Key>
+    <Property Name="uyeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kullaniciAdi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="adSoyad" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="email" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="parola" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="uyeTipi" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Kayit" Relationship="odevPortalModel.FK_Kayit_ToUye" FromRole="Uye" ToRole="Kayit" />
+  </EntityType>
+  <Association Name="FK_Ders_ToKategori">
+    <End Type="odevPortalModel.Kategori" Role="Kategori" Multiplicity="1" />
+    <End Type="odevPortalModel.Ders" Role="Ders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="kategoriId" />
+      </Principal>
+      <Dependent Role="Ders">
+        <PropertyRef Name="dersKategoriId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Odev_ToDers">
+    <End Type="odevPortalModel.Ders" Role="Ders" Multiplicity="1" />
+    <End Type="odevPortalModel.Odev" Role="Odev" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ders">
+        <PropertyRef Name="dersId" />
+      </Principal>
+      <Dependent Role="Odev">
+        <PropertyRef Name="odevDersId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kayit_ToOdev">
+    <End Type="odevPortalModel.Odev" Role="Odev" Multiplicity="1" />
+    <End Type="odevPortalModel.Kayit" Role="Kayit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Odev">
+        <PropertyRef Name="odevId" />
+      </Principal>
+      <Dependent Role="Kayit">
+        <PropertyRef Name="kayitOdevId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kayit_ToUye">
+    <End Type="odevPortalModel.Uye" Role="Uye" Multiplicity="1" />
+    <End Type="odevPortalModel.Kayit" Role="Kayit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Uye">
+        <PropertyRef Name="uyeId" />
+      </Principal>
+      <Dependent Role="Kayit">
+        <PropertyRef Name="kayitUyeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

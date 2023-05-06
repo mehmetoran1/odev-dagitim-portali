@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="odevPortalModelStoreContainer" CdmEntityContainer="odevPortalEntities1">
+    <EntitySetMapping Name="Ders">
+      <EntityTypeMapping TypeName="odevPortalModel.Ders">
+        <MappingFragment StoreEntitySet="Ders">
+          <ScalarProperty Name="dersKategoriId" ColumnName="dersKategoriId" />
+          <ScalarProperty Name="dersKredi" ColumnName="dersKredi" />
+          <ScalarProperty Name="dersKodu" ColumnName="dersKodu" />
+          <ScalarProperty Name="dersAdi" ColumnName="dersAdi" />
+          <ScalarProperty Name="dersId" ColumnName="dersId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kategori">
+      <EntityTypeMapping TypeName="odevPortalModel.Kategori">
+        <MappingFragment StoreEntitySet="Kategori">
+          <ScalarProperty Name="kategoriAdi" ColumnName="kategoriAdi" />
+          <ScalarProperty Name="kategoriId" ColumnName="kategoriId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kayit">
+      <EntityTypeMapping TypeName="odevPortalModel.Kayit">
+        <MappingFragment StoreEntitySet="Kayit">
+          <ScalarProperty Name="kayitDurum" ColumnName="kayitDurum" />
+          <ScalarProperty Name="kayitUyeId" ColumnName="kayitUyeId" />
+          <ScalarProperty Name="kayitOdevId" ColumnName="kayitOdevId" />
+          <ScalarProperty Name="kayitId" ColumnName="kayitId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Odev">
+      <EntityTypeMapping TypeName="odevPortalModel.Odev">
+        <MappingFragment StoreEntitySet="Odev">
+          <ScalarProperty Name="odevDersId" ColumnName="odevDersId" />
+          <ScalarProperty Name="odevSonTarih" ColumnName="odevSonTarih" />
+          <ScalarProperty Name="odevAciklama" ColumnName="odevAciklama" />
+          <ScalarProperty Name="odevAdi" ColumnName="odevAdi" />
+          <ScalarProperty Name="odevId" ColumnName="odevId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Uye">
+      <EntityTypeMapping TypeName="odevPortalModel.Uye">
+        <MappingFragment StoreEntitySet="Uye">
+          <ScalarProperty Name="uyeTipi" ColumnName="uyeTipi" />
+          <ScalarProperty Name="parola" ColumnName="parola" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="adSoyad" ColumnName="adSoyad" />
+          <ScalarProperty Name="kullaniciAdi" ColumnName="kullaniciAdi" />
+          <ScalarProperty Name="uyeId" ColumnName="uyeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

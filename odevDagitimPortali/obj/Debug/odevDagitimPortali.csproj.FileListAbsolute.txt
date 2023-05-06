@@ -1,0 +1,144 @@
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\ApplicationInsights.config
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\roslyn\csc.exe
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\roslyn\System.Collections.Immutable.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\roslyn\System.Reflection.Metadata.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\roslyn\vbc.exe
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\roslyn\VBCSCompiler.exe
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\roslyn\VBCSCompiler.exe.config
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\odevDagitimPortali.dll.config
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\odevDagitimPortali.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\odevDagitimPortali.pdb
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\EntityFramework.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\EntityFramework.SqlServer.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.AI.DependencyCollector.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.AI.Web.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.AI.WindowsServer.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.ApplicationInsights.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Newtonsoft.Json.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\System.Net.Http.Formatting.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\System.Web.Http.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\System.Web.Http.WebHost.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\EntityFramework.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\EntityFramework.SqlServer.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.AI.DependencyCollector.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.AI.Web.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.AI.WindowsServer.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.ApplicationInsights.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Newtonsoft.Json.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\System.Net.Http.Formatting.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\System.Web.Http.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\System.Web.Http.WebHost.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\obj\Debug\odevDagitimPortali.csprojResolveAssemblyReference.cache
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\obj\Debug\odevDagitimPortali.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\obj\Debug\odevDagitimPortali.pdb
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Microsoft.Web.Infrastructure.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\Swashbuckle.Core.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortali\odevDagitimPortali\bin\WebActivatorEx.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\ApplicationInsights.config
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\csc.exe
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\System.Collections.Immutable.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\System.Reflection.Metadata.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\vbc.exe
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\VBCSCompiler.exe
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\VBCSCompiler.exe.config
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\odevDagitimPortali.dll.config
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\odevDagitimPortali.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\odevDagitimPortali.pdb
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\EntityFramework.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\EntityFramework.SqlServer.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.DependencyCollector.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.Web.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.WindowsServer.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.ApplicationInsights.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.Web.Infrastructure.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Newtonsoft.Json.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Swashbuckle.Core.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\System.Net.Http.Formatting.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\System.Web.Http.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\System.Web.Http.WebHost.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\WebActivatorEx.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\EntityFramework.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\EntityFramework.SqlServer.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.DependencyCollector.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.Web.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.WindowsServer.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.ApplicationInsights.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\Newtonsoft.Json.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\System.Net.Http.Formatting.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\System.Web.Http.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\bin\System.Web.Http.WebHost.xml
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\obj\Debug\odevDagitimPortali.csprojResolveAssemblyReference.cache
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\obj\Debug\odevDagitimPortali.dll
+G:\Akdeniz\Ders Videoları\İnternet Programcılığı 2\2023-wepApi\odevDagitimPortaliAPI\odevDagitimPortali\obj\Debug\odevDagitimPortali.pdb
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\ApplicationInsights.config
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\csc.exe
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\vbc.exe
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\VBCSCompiler.exe
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\odevDagitimPortali.dll.config
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\odevDagitimPortali.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\odevDagitimPortali.pdb
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\EntityFramework.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\EntityFramework.SqlServer.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.Web.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.ApplicationInsights.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Newtonsoft.Json.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Swashbuckle.Core.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\System.Net.Http.Formatting.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\System.Web.Http.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\System.Web.Http.WebHost.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\WebActivatorEx.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\EntityFramework.xml
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\EntityFramework.SqlServer.xml
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.Web.xml
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.ApplicationInsights.xml
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\Newtonsoft.Json.xml
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\System.Net.Http.Formatting.xml
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\System.Web.Http.xml
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\bin\System.Web.Http.WebHost.xml
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\obj\Debug\odevDagitimPortali.csprojResolveAssemblyReference.cache
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\obj\Debug\odevDagitimPortali.dll
+C:\Users\BAHOS\Desktop\odevDagitimPortaliAPI\odevDagitimPortali\obj\Debug\odevDagitimPortali.pdb

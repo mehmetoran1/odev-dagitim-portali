@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3c0746463d284ff992cb06c3502c46f5" Name="Diagram1" ZoomLevel="86">
+        <EntityTypeShape EntityType="odevPortalModel.Ders" Width="1.5" PointX="6.875" PointY="3.375" />
+        <EntityTypeShape EntityType="odevPortalModel.Kategori" Width="1.5" PointX="9" PointY="3.375" />
+        <EntityTypeShape EntityType="odevPortalModel.Kayit" Width="1.5" PointX="8.625" PointY="0.5" />
+        <EntityTypeShape EntityType="odevPortalModel.Odev" Width="1.5" PointX="6.375" PointY="0.5" />
+        <EntityTypeShape EntityType="odevPortalModel.Uye" Width="1.5" PointX="10.75" PointY="0.5" />
+        <AssociationConnector Association="odevPortalModel.FK_Ders_ToKategori" />
+        <AssociationConnector Association="odevPortalModel.FK_Odev_ToDers" />
+        <AssociationConnector Association="odevPortalModel.FK_Kayit_ToOdev" />
+        <AssociationConnector Association="odevPortalModel.FK_Kayit_ToUye" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
